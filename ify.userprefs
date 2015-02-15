@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="iOS/ify.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ify/ViewModel/QuestionViewModel.cs">
+    <Files>
+      <File FileName="ify/ViewModel/QuestionViewModel.cs" Line="25" Column="25" />
+      <File FileName="ify/View/MainPage.cs" Line="1" Column="1" />
+      <File FileName="ify/View/QuestionPage.cs" Line="1" Column="1" />
+      <File FileName="ify/View/ResultPage.cs" Line="1" Column="1" />
+      <File FileName="ify/ify.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
